@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Django, React**
 
-- 📫 How to reach me **petermuturi74@gmail.com**
+- 📫 How to reach me
 
 - ⚡ Fun fact **Smiles are beautiful**
 
